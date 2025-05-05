@@ -25,7 +25,7 @@ To apply and compare time series forecasting techniques using **Risk Simulator**
 
 ## Software
 
-- **Risk Simulator** by OSL Risk Management
+- **Risk Simulator** by Real Options Valuation Inc.
 
 ## Evaluation Metrics
 
